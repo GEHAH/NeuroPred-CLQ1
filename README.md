@@ -13,7 +13,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 
 ## Related Files
 
-#### MLBP
+#### NeuroPred-CLQ
 
 | FILE NAME           | DESCRIPTION                                                  |
 | :------------------ | :----------------------------------------------------------- |
