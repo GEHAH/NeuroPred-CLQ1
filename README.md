@@ -9,4 +9,4 @@ Neuropeptides (NPs) are a particular class of informative substances in the immu
 Results:
 In this study, we developed a deep learning model (NeuroPred-CLQ) based on the temporal convolutional network (TCN) and multi-head attention mechanism to identify NPs effectively and translate the internal relationships of peptide sequences into numerical features by the Word2vec algorithm. The experimental results show that NeuroPred-CLQ learns data information effectively, achieving 93.6% accuracy and 98.8% AUC on the independent test set. The model has better performance in identifying neuropeptides than the state-of-the-art predictors. 
 
-![draft](./figure/Figure1.tif)
+![draft](./figure/Figure1.jpg)
