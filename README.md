@@ -17,13 +17,14 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 
 | FILE NAME           | DESCRIPTION                                                  |
 | :------------------ | :----------------------------------------------------------- |
-| main.py             | the main file of NeuroPred-CLQ predictor (include data reading, encoding, and data partitioning) |
+| data_process.py             | the main file of NeuroPred-CLQ predictor (include data reading, encoding, and data partitioning) |
+| layers.py           | The defined attention mechanism module |
 | train.py            | train model |
 | model.py            | model construction |
 | test.py             | test model result |
 | tools.py       | Some of the required functions |
 | data                | data         |
-| BiGRU_base          | models of NeuroPred-CLQ           |
+| CLQ_model          | models of NeuroPred-CLQ           |
 
 
 ## Installation
