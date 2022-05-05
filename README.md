@@ -21,7 +21,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
 | train.py            | train model |
 | model.py            | model construction |
 | test.py             | test model result |
-| evaluation.py       | evaluation metrics (for evaluating prediction results) |
+| tools.py       | Some of the required functions |
 | data                | data         |
 | BiGRU_base          | models of NeuroPred-CLQ           |
 
@@ -46,7 +46,7 @@ In this study, we developed a deep learning model (NeuroPred-CLQ) based on the t
   ```
 
 
-## Run MLBP on a new test fasta file
+## Run NeuroPred-CLQ on a new test fasta file
 ```shell
 python predictor.py --file test.fasta --out_path result
 ```
